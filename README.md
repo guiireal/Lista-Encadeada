@@ -1,2 +1,2 @@
-# Lista-Encadeada
-Algoritmo de lista encadeada
+# Lista_Simples_Encadeada
+Algoritmo de uma lista simples encadeada
